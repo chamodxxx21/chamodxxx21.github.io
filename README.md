@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">
@@ -20,7 +20,7 @@
 	</div>
 	<div id="contact">
 		<a href="https://github.com/chamodxxx21" target="_blank"><img class="social-logo" id="git" src="github.png"></a>
-		<a href=https://t.me/G_c_c_123"" target="_blank"><img class="social-logo" id="tele" src="telegram.png"></a>
+		
 	</div>
 </body>
 </html> 
